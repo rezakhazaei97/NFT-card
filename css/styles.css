@@ -1,0 +1,90 @@
+body {
+  background-color: hsl(217, 54%, 11%);
+  font-family: "Outfit", sans-serif;
+}
+
+.card {
+  background-color: hsl(216, 50%, 16%);
+  width: 350px;
+  height: 530px;
+  border-radius: 3%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+.equilibrium {
+  position: relative;
+  left: 24px;
+  top: 15px;
+  border-radius: 5%;
+}
+
+h2:hover {
+  color: hsl(178, 100%, 50%);
+}
+
+h2 {
+  color: hsl(0, 0%, 100%);
+  position: relative;
+  left: 24px;
+  font-size: 18px;
+  margin-top: 25px;
+}
+
+p {
+  color: hsl(215, 51%, 70%);
+  margin: 0 24px;
+  font-size: 16px;
+}
+
+.icon-ethereum {
+  margin-top: 15px;
+  margin-left: 24px;
+  float: left;
+}
+
+.ETH {
+  margin-top: 15px;
+  padding-left: 20px;
+  color: hsl(178, 100%, 50%);
+}
+
+hr {
+  width: 84%;
+  border-style: solid hidden hidden hidden;
+  border-color: hsl(215, 32%, 27%);
+}
+
+.image-avatar {
+  width: 10%;
+  margin-top: 8px;
+  margin-left: 24px;
+  margin-right: 15px;
+  float: left;
+}
+
+.creator {
+  margin-top: 23px;
+}
+
+.name {
+  color: hsl(0, 0%, 100%);
+}
+
+.name:hover {
+  color: hsl(178, 100%, 50%);
+}
+
+.icon-clock {
+  margin-top: 15px;
+  margin-left: 75px;
+}
+
+.clock-info {
+  margin-top: 15px;
+  margin-left: 5px;
+}
