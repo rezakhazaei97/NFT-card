@@ -23,11 +23,11 @@ body {
   border-radius: 5%;
 }
 
-h2:hover {
+h1:hover {
   color: hsl(178, 100%, 50%);
 }
 
-h2 {
+h1 {
   color: hsl(0, 0%, 100%);
   position: relative;
   left: 24px;
